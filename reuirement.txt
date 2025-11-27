@@ -1,0 +1,29 @@
+# Core PLC communication
+pylogix
+pycomm3
+
+# SQL Server
+pyodbc
+SQLAlchemy
+
+# Excel reading/writing
+openpyxl
+pandas
+
+# Environment variables
+python-dotenv
+
+# Multi-threading utilities (optional but useful)
+concurrent-log-handler
+
+# Logging / rotation
+loguru
+
+# System utilities
+psutil
+
+# Retry logic / backoff
+tenacity
+
+# Scheduling (for daily 2 AM restart if needed)
+schedule
